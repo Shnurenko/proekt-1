@@ -1,0 +1,4 @@
+Icon 1- #6598e6,
+Icon 2- #fdcf0a,
+Icon 3- #12b367,
+Icon 4- #e67624.
